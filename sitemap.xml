@@ -9,67 +9,77 @@
 
 <url>
   <loc>https://epezhman.github.io/</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs.html</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/index.html</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/fabricCRDT.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/bc_payment.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/ogm-dist.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://epezhman.github.io/pubs/ogm1.pdf</loc>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://epezhman.github.io/pubs/ogm3.pdf</loc>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/serverlerss-pubsub1.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/serverlerss-pubsub2.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/i13dr.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/openwhisk.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/vibes.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/cidds.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://epezhman.github.io/pubs/evibes.pdf</loc>
-  <lastmod>2020-05-26T18:46:28+00:00</lastmod>
+  <lastmod>2021-04-15T07:36:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
